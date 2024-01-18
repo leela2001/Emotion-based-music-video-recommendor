@@ -1,0 +1,65 @@
+
+.st-emotion-cache-uf99v8 {
+    background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+    background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+    background-image: linear-gradient(to top, #b3ffab 0%, #12fff7 100%);
+  }
+
+
+.st-emotion-cache-10trblm {
+background: linear-gradient(228deg, #0C29C5 0%, #B45AE1 29%, #AB49DB 31%, #A35BC7 39%, #8F12CD 50%, #F64F59 79%, #f64f59 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background: radial-gradient(circle at center center, #583399 0%, #D300FF 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.st-emotion-cache-16idsys p { #input
+  color:purple;
+  font-size: 16px;
+}
+.st-emotion-cache-q8sbsg p {
+    color:purple;
+    font-size: 16px;
+}
+
+
+.st-emotion-cache-7ym5gk{#button
+  border-style: solid;
+  border-color: purple;
+  border-width :2px ;
+  background: radial-gradient(circle at center center, #583399 0%, #D300FF 100%);
+  background-image: linear-gradient(to right, #ec77ab 0%, #7873f5 100%);
+  color:white;
+}
+
+.st-emotion-cache-7ym5gk:hover{#button
+  border-style: solid;
+  border-color: green;
+  border-width :2px ;
+  #background: radial-gradient(circle at center center, #583399 0%, #D300FF 100%);
+  color:white;
+}
+.st-emotion-cache-19rxjzo {#button
+  border-style: solid;
+  border-color: purple;
+  border-width :2px ;
+  background: radial-gradient(circle at center center, #583399 0%, #D300FF 100%);
+  background-image: linear-gradient(to right, #ec77ab 0%, #7873f5 100%);
+}
+
+
+.st-emotion-cache-19rxjzo:hover {#button
+  border-style: solid;
+  border-color: green;
+  border-width :2px ;
+  #background: radial-gradient(circle at center center, #583399 0%, #D300FF 100%);
+
+}
+
+.st-emotion-cache-x78sv8 p {button
+  color:white;
+  font-size: 16px;
+
+}
